@@ -1,0 +1,24 @@
+/* cursiva */
+span.diners{
+    font-style: oblique;
+}
+/* negreta */
+span.fred{
+    font-weight: bold;
+}
+/* small */
+span.iva{
+    font-size: small;
+}
+/* tahcar */
+span.no{
+    text-decoration: line-through;
+}
+/* negra */
+span.italic{
+    font-style: oblique;
+}
+/* mark */
+span.practica{
+    background-color: yellow;
+}
